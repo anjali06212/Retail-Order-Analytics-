@@ -60,7 +60,7 @@ This project showcases a complete end-to-end analytics workflow using Python and
 - **Data Source:** Kaggle Dataset (Retail Orders)
 - **ETL Pattern:** Extract → Transform → Load
 
----
 
-## 📂 Repository Structure
+
+
 
